@@ -1,9 +1,7 @@
 # EditableBufferedReader
 SAD Practica1 : Programació de readline amb capacitats d’edició (Model/View/Controller)
 
-Practica1(V1): versió de 
-
-Este proyecto implementa una clase EditableBufferedReader que extiende BufferedReader, permitiendo la lectura de líneas de texto con capacidades de edición básicas en la consola. Está diseñado siguiendo las pautas de la práctica de programación orientada al patrón Model/View/Controller (MVC).
+Este proyecto implementa una clase EditableBufferedReader que extiende BufferedReader, permitiendo la lectura de líneas de texto con capacidades de edición básicas en la consola. Está diseñado siguiendo las pautas de la práctica de programación orientada al patrón Model/View/Controller (MVC). Hay 2 versiones "Practica1(V1)" sin usasr el patron MVC y "Practica1" usando el parton MVC.
 
 Características principales
 
